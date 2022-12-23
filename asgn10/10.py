@@ -7,15 +7,4 @@ for i in range(15,45):
         if i%n==0:
             break
     else:
-        print(i)
-        # print(i,n)
-        # print(i*n)
-        # #     print(i)
-        # else:
-        #     break
-        # # print(i,n)
-#         if i%n==0:
-#             l.append(i)
-#         else:
-#             continue
-# print(l)
+       
