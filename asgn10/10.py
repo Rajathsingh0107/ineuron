@@ -7,4 +7,4 @@ for i in range(15,45):
         if i%n==0:
             break
     else:
-       
+        print(i)
